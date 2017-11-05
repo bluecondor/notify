@@ -1,0 +1,10 @@
+### Ignore everything ###
+*
+
+# But do not ignore this:
+!.gitignore
+!css/
+!images/
+!js/
+!README.md
+!*.html
