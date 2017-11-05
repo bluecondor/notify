@@ -4,6 +4,6 @@
 # But do not ignore this:
 !css/
 !images/
-!js
+!js/
 !README.md
 !*.html
