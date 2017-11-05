@@ -1,10 +1,11 @@
 ### Ignore everything ###
-*
+/*
+/*/
 
 # But do not ignore this:
 !.gitignore
+!README.md
+!*.html
 !css/
 !images/
 !js/
-!README.md
-!*.html
